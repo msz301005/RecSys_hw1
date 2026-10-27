@@ -1,0 +1,16 @@
+.venv/
+venv/
+.packages/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+hw1/data/
+hw1/.cache/
+*.npy
+*.npz
+*.pkl
+*.gz
+*.zip
+*.part
+*.log
